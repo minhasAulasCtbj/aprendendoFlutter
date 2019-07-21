@@ -7,4 +7,4 @@ Tutorial básico de desenvolvimento usando framework Flutter da google.
 
 #### Arquivo recuperado finalmente!!!
 
-
+#### Nova alteração feita localmente antes de enviar para github!
